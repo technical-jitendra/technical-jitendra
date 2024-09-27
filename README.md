@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=technicaljitendra&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=technical-jitendra&theme=default)
 
 ---
 
